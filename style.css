@@ -1,4 +1,17 @@
 body {
-    background-color: red;
+  
+    background-image: url(fetes.png);
+    background-image: url(7.gif);
+    background-size: cover;
+    background-repeat:no-repeat;
     color: white;
+}
+.text {
+    display: flex;
+    flex-direction: column-reverse;
+    text-align: center;
+    vertical-align: middle;
+    height: 300px;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50pt;
 }
